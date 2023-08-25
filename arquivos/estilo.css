@@ -1,0 +1,62 @@
+#quadro {
+  width: 100px;
+  height: 240px;
+  margin: 0;
+  background: lightgray; 
+  border: 3px solid black; 
+}
+
+#pagina {
+  width: 100px;
+  height: 300px;
+  margin: 40px auto;
+}
+
+#posicaoForm {
+  position: absolute;
+  top: 30px;
+  left: 170px;
+}
+
+.cabecalho {
+  border-radius:4px;
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  box-shadow: 1px 1px 1px #FFD700;	
+  -moz-box-shadow: 1px 1px 2px #333333;
+  -webkit-box-shadow: 1px 1px 2px #333333;
+  background: gray; 
+  border:3px solid yellow;
+  color: white;
+  font-size: 16px;
+  width:630px;
+  height: 50px;
+}
+
+.visor {
+  border-radius:4px;
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  box-shadow: 2px 2px 2px #FFD700;	
+  -moz-box-shadow: 1px 1px 2px #333333;
+  -webkit-box-shadow: 1px 1px 2px #333333;
+  background: #00FFFF; 
+  border:3px solid black;
+  font-size: 16px;
+  width:557px;
+  text-align: right;
+  height: 40px;
+}
+
+.botao {
+  border-radius:4px;
+  font-size: 16px;
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  box-shadow: 2px 2px 2px #FFD700;	
+  -moz-box-shadow: 1px 1px 2px #333333;
+  -webkit-box-shadow: 1px 1px 2px #333333;
+  background: #00FFFF; 
+  border:3px solid black;
+  width:50px;
+}
